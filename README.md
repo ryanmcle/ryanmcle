@@ -14,7 +14,7 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
    - Uses **Tkinter** for GUI development and **SQLite** for data persistence.
    - Includes features like placing buy and sell orders, order matching, and trade history visualization.
 
-2. **[Black Scholes Option pricing model](https://github.com/yourusername/time-series-forecasting)**
+2. **[Black Scholes Option Pricing](https://github.com/yourusername/time-series-forecasting)**
    
 ## 📊 GitHub Stats
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmcle&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
