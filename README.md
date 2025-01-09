@@ -23,4 +23,4 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
 
 ## 🌐 Connect with me
 - [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
-- [Leetcode](https://leetcode.com/u/rs_ryanx/)
+- [Leetcode](https://leetcode.com/u/ryanmcle/)
