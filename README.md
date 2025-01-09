@@ -14,10 +14,8 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
    - Uses **Tkinter** for GUI development and **SQLite** for data persistence.
    - Includes features like placing buy and sell orders, order matching, and trade history visualization.
 
-2. **[Time Series Forecasting of US Equities](https://github.com/yourusername/time-series-forecasting)**
-   - A project focused on time series forecasting for **US Equities** using statistical and machine learning models like **XGBoost** and **ARIMA**.
-   - Aimed at predicting stock price movements based on historical data.
-
+2. **[Black Scholes Option pricing model](https://github.com/yourusername/time-series-forecasting)**
+   
 ## 📊 GitHub Stats
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmcle&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
