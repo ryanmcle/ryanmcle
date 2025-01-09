@@ -19,7 +19,7 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
    - Aimed at predicting stock price movements based on historical data.
 
 ## 📊 GitHub Stats
-!![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanmcle&theme=dark)
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmcle&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🌐 Connect with me
 - [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
