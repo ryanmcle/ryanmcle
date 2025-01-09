@@ -9,7 +9,7 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
 
 ## 📂 My Top Projects
 
-1. **[Order Book Management System]([https://github.com/yourusername/order-book](https://github.com/ryanmcle/OrderBook))**
+1. **[Order Book Management System](https://github.com/ryanmcle/OrderBook)**
    - A Python application that simulates an order book for trading financial instruments (stocks).
    - Uses **Tkinter** for GUI development and **SQLite** for data persistence.
    - Includes features like placing buy and sell orders, order matching, and trade history visualization.
