@@ -20,7 +20,7 @@ I'm a **Mathematics student** at the **University of St Andrews**, and I'm looki
    - User-friendly command-line interface to input stock tickers, expiration dates, and strike prices for dynamic option pricing
 
 3. **[Video Converter](https://github.com/ryanmcle/video-converter)**
-   - video converter written in C++, currently unfinished
+   - Video converter written in C++, currently unfinished
 ## 📊 GitHub Stats
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmcle&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
