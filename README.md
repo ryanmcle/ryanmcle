@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan McLellan 👋
 
-I'm a **Mathematics student** at the **University of St Andrews**, and I'm looking to start a career in **quantitative trading**. I have experience working with various tools and technologies related to data analysis, machine learning, and statistical modeling.
+I'm a **Mathematics student** at the **University of St Andrews**, and I'm looking to start a career in **quantitative trading** as well as **software engineering** roles. I have experience working with various tools and technologies related to data analysis, machine learning, and statistical modeling.
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**: Python, SQL
