@@ -3,8 +3,8 @@
 I'm a **Mathematics student** at the **University of St Andrews**, and I'm looking to start a career in **quantitative trading** as well as **software engineering** roles. I have experience working with various tools and technologies related to data analysis, machine learning, and statistical modeling.
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, SQL, C++
-- **Libraries & Frameworks**: Pandas, Numpy, Sympy, XGBoost, Scikit-Learn
+- **Programming Languages**: Python, SQL, Javascript
+- **Libraries & Frameworks**: Pandas, Numpy, Sympy, XGBoost, Scikit-Learn, MongoDB, Node.js
 - **Tools**: Jupyter, Git, SQL
 
 ## 📂 My Top Projects
